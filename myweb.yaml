@@ -16,7 +16,7 @@ spec:
         app: myweb
     spec:
       containers:
-      - image: 10.16.131.56:5000/shohelm/myweb:1
+      - image: 10.16.131.56:5000/shohelm/jenkinssample:1
         imagePullPolicy: Always
         name: myweb
 
