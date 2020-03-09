@@ -1,7 +1,7 @@
 pipeline {
 
   environment {
-    registry = "10.16.131.56:5000/shohelm/myweb"
+    registry = "10.16.131.56:5000/shohelm/jenkinssample"
     dockerImage = ""
   }
 
